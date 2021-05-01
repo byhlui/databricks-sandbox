@@ -12,3 +12,8 @@
 
 # MAGIC %sql
 # MAGIC SHOW DATABASES;
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC This is a second commit
