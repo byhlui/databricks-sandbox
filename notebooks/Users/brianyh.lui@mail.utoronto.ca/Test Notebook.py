@@ -21,3 +21,7 @@
 # COMMAND ----------
 
 #This is another commit....FROM GITHUB
+
+# COMMAND ----------
+
+# MAGIC %run ../../../another_notebook
