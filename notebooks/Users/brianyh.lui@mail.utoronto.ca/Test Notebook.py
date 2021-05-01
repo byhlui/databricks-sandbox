@@ -20,7 +20,7 @@
 
 # COMMAND ----------
 
-#one commit ahead on master
+#will this still merge into master after resolving the rebase merge conflict?
 
 # COMMAND ----------
 
