@@ -24,4 +24,4 @@
 
 # COMMAND ----------
 
-# MAGIC %run ../../../another_notebook
+# MAGIC %run Repos/brianyh.lui@mail.utoronto.ca/databricks-sandbox/another_notebook
